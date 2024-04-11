@@ -1,3 +1,3 @@
 public class BE {
-    public static String a = "a";
+    public static String a = "aaa";
 }
